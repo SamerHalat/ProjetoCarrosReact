@@ -1,4 +1,4 @@
-import './CarDetails.css'; // opcional, se quiser CSS separado
+import './CarDetails.css'; 
 
 function CarDetails(props) {
   return (
