@@ -1,0 +1,26 @@
+.car-card {
+  background-color: #ffffff;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 300px;
+  margin: 15px auto;
+  padding: 20px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.car-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.car-card li {
+  text-align: left;
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.car-card li:last-child {
+  font-weight: bold;
+  color: #006400;
+  border-bottom: none;
+}
